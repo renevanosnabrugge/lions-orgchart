@@ -173,6 +173,21 @@ var INPUT_DATA = {
                     "children": [],
                     "showChildren": false
                 },
+                {
+                    "id": "4_7",
+                    "name": "Subsidie Specialist",
+                    "description": "",
+                    "parent_id": "4",
+                    "staff_department": "N",
+                    "manager_id": "SUBSIDIE",
+                    "dataFields": [{
+                        "name": "Location",
+                        "value": "",
+                        "type": "text"
+                    }],
+                    "children": [],
+                    "showChildren": false
+                },
 
 
             ],
@@ -815,11 +830,11 @@ var INPUT_DATA = {
     },
     {
         "id": "TECHBESTUUR01",
-        "name": "Sirio Barone",
+        "name": "Vacature",
         "photo": "TECHBESTUUR01",
-        "functionName": "Technisch Bestuurslid",
+        "functionName": "Secretaris TC",
         "fields": {
-            "Email": "siriobarone@gmail.com",
+            "Email": "",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -1153,6 +1168,19 @@ var INPUT_DATA = {
         }
     },
     {
+        "id": "SUBSIDIE",
+        "name": "Vacature",
+        "photo": "SUBSIDIE",
+        "functionName": "Subsidie Specialist",
+        "fields": {
+            "Email": "xxx",
+            "Phone": "",
+            "Homepage": "",
+            "Country": "Netherlands",
+            "City": ""
+        }
+    },
+    {
         "id": "CLUBACTIE",
         "name": "Tonnie van Osnabrugge",
         "photo": "CLUBACTIE",
@@ -1207,7 +1235,7 @@ var INPUT_DATA = {
 
     {
         "id": "TC-TEAM1-2",
-        "name": "Sirio Barone",
+        "name": "Vacature",
         "photo": "TC-TEAM1-2",
         "functionName": "Technische Commissie Team 1/Team 2",
         "fields": {
