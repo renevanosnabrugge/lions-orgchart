@@ -1052,11 +1052,11 @@ var INPUT_DATA = {
     },
     {
         "id": "WEBSITE",
-        "name": "Sander de Gruiter",
+        "name": "Johan van der Hammen",
         "photo": "WEBSITE",
         "functionName": "Website",
         "fields": {
-            "Email": "sander@degruiter.nl",
+            "Email": "",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
