@@ -311,7 +311,7 @@ var INPUT_DATA = {
         },
         {
             "id": "6",
-            "name": "Technisch Bestuurslid",
+            "name": "Secretaris TC",
             "description": "",
             "parent_id": "1",
             "staff_department": "N",
@@ -782,7 +782,7 @@ var INPUT_DATA = {
         "photo": "ALGBESTUUR01",
         "functionName": "Algemeen Bestuurslid",
         "fields": {
-            "Email": "monique@gmail.com",
+            "Email": "monique@dordrechtlions.nl",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -834,7 +834,7 @@ var INPUT_DATA = {
         "photo": "TECHBESTUUR01",
         "functionName": "Secretaris TC",
         "fields": {
-            "Email": "",
+            "Email": "tc@dordrechtlions.nl",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -1082,7 +1082,7 @@ var INPUT_DATA = {
         "photo": "KLEDING",
         "functionName": "Kleding commissie",
         "fields": {
-            "Email": "xxx",
+            "Email": "materiaal@dordrechtlions.nl",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -1134,7 +1134,7 @@ var INPUT_DATA = {
         "photo": "MERCHANDISE",
         "functionName": "Merchandise",
         "fields": {
-            "Email": "xxx",
+            "Email": "kleding@dordrechtlions.nl",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
