@@ -53,21 +53,7 @@ var INPUT_DATA = {
                 "type": "text"
             }],
             "children": [
-                {
-                    "id": "4_1",
-                    "name": "Ijsinkoop",
-                    "description": "",
-                    "parent_id": "4",
-                    "staff_department": "N",
-                    "manager_id": "IJSINKOOP",
-                    "dataFields": [{
-                        "name": "Location",
-                        "value": "",
-                        "type": "text"
-                    }],
-                    "children": [],
-                    "showChildren": false
-                },
+
                 {
                     "id": "4_2",
                     "name": "Kas Controle commissie",
@@ -276,7 +262,7 @@ var INPUT_DATA = {
                 "children": [
                     {
                         "id": "5_5_1",
-                        "name": "Communicatie Leden",
+                        "name": "Club Spond - Communicatie Leden",
                         "description": "",
                         "parent_id": "5_5",
                         "staff_department": "N",
@@ -739,7 +725,7 @@ var INPUT_DATA = {
     },
     {
         "id": "SECRETARIS",
-        "name": "Vacature",
+        "name": "Monique Borsboom",
         "photo": "SECRETARIS",
         "functionName": "Secretaris",
         "fields": {
@@ -778,11 +764,11 @@ var INPUT_DATA = {
     },
     {
         "id": "ALGBESTUUR01",
-        "name": "Monique Borsboom",
+        "name": "Vacature",
         "photo": "ALGBESTUUR01",
         "functionName": "Algemeen Bestuurslid",
         "fields": {
-            "Email": "monique@dordrechtlions.nl",
+            "Email": "",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -791,11 +777,11 @@ var INPUT_DATA = {
     },
     {
         "id": "ALGBESTUUR02",
-        "name": "Johan van Ballegooijen",
+        "name": "Vacature",
         "photo": "ALGBESTUUR02",
         "functionName": "Algemeen Bestuurslid",
         "fields": {
-            "Email": "johan@gmail.com",
+            "Email": "",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -804,11 +790,11 @@ var INPUT_DATA = {
     },
     {
         "id": "ALGBESTUUR03",
-        "name": "Natasja de Man",
+        "name": "Vacature",
         "photo": "ALGBESTUUR03",
         "functionName": "Algemeen Bestuurslid",
         "fields": {
-            "Email": "natasja@gmail.com",
+            "Email": "",
             "Phone": "",
             "Homepage": "",
             "Country": "Netherlands",
@@ -817,7 +803,7 @@ var INPUT_DATA = {
     },
     {
         "id": "ALGBESTUUR04",
-        "name": "Dimitri Roos",
+        "name": "Vacature",
         "photo": "ALGBESTUUR04",
         "functionName": "Algemeen Bestuurslid",
         "fields": {
@@ -830,7 +816,7 @@ var INPUT_DATA = {
     },
     {
         "id": "TECHBESTUUR01",
-        "name": "Vacature",
+        "name": "Natasja de Man",
         "photo": "TECHBESTUUR01",
         "functionName": "Secretaris TC",
         "fields": {
@@ -1038,6 +1024,20 @@ var INPUT_DATA = {
         }
     },
     {
+        "id": "5_5_1",
+        "name": "Fred Hartman",
+        "photo": "5_5_1",
+        "functionName": "Communicatie Leden - Club Spond",
+        "fields": {
+            "Email": "xxx",
+            "Phone": "",
+            "Homepage": "",
+            "Country": "Netherlands",
+            "City": ""
+        }
+    },
+
+    {
         "id": "SOCIALMEDIA",
         "name": "Vacature",
         "photo": "SOCIALMEDIA",
@@ -1065,7 +1065,7 @@ var INPUT_DATA = {
     },
     {
         "id": "VIDEO01",
-        "name": "Fred Hartman",
+        "name": "Cas Brand",
         "photo": "VIDEO01",
         "functionName": "Video Team",
         "fields": {
@@ -1141,19 +1141,7 @@ var INPUT_DATA = {
             "City": ""
         }
     },
-    {
-        "id": "IJSINKOOP",
-        "name": "Malaika van Bloois",
-        "photo": "IJSINKOOP",
-        "functionName": "Ijs inkoop",
-        "fields": {
-            "Email": "xxx",
-            "Phone": "",
-            "Homepage": "",
-            "Country": "Netherlands",
-            "City": ""
-        }
-    },
+
     {
         "id": "SPONSOR",
         "name": "Sander de Gruiter",
