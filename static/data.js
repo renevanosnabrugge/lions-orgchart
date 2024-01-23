@@ -1012,9 +1012,9 @@ var INPUT_DATA = {
     },
     {
         "id": "COMMUNICATIE",
-        "name": "Vacature",
+        "name": "Fred Hartman",
         "photo": "COMMUNICATIE",
-        "functionName": "Interne communicatie",
+        "functionName": "Interne communicatie - Club Spond",
         "fields": {
             "Email": "xxx",
             "Phone": "",
